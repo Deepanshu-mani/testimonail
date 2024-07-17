@@ -14,11 +14,12 @@ This repository contains a simple testimonial application built with HTML, CSS, 
 
 - HTML
 - CSS
+- Tailwind
 - JavaScript
 
 ## Demo
 
-You can view a live demo of this project [here](#) (Update with your live demo link).
+You can view a live demo of this project [here](https://testimonail.vercel.app).
 
 ## Installation
 
